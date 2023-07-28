@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shaiq-Ish
 - 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently learning front end development (learnt html,css and tailwind css looking forward towards javascript now)
 - 💞️ I’m looking to collaborate on any front end projects
 - 📫 How to reach me contact me through gmail @shaiqish@gmail.com
 
